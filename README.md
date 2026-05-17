@@ -1,22 +1,22 @@
 # 📝 Simple To-Do App
-Aplikasi pencatat tugas harian (*To-Do List*) sederhana yang super cepat dan responsif. Project ini dibangun dari awal untuk memahami alur kerja *Fullstack Web Development* skala kecil.
+A simple, fast, and responsive daily To-Do List application. This project was built from scratch to understand the workflow of small-scale Fullstack Web Development.
 
-## ✨ Fitur Utama
-* **Add Task:** Menambahkan tugas harian dengan mudah.
-* **Delete Task:** Menghapus tugas yang sudah diselesaikan secara *real-time*.
-* **Clean UI:** Tampilan antarmuka yang bersih, modern, dan memanjakan mata.
+## ✨ Key Features
+* **Add Task:** Easily add new daily tasks.
+* **Delete Task:** Remove completed tasks in real-time.
+* **Clean UI:** A clean, modern, and eye-catching user interface.
 
-## 🛠️ Teknologi yang Digunakan
+## 🛠️ Technologies Used
 * **Backend:** Python, Flask Framework
 * **Frontend:** HTML5, CSS3
 
-## 📸 Tampilan Aplikasi
-*(Nanti taruh gambar screenshot-nya di sini)*
+## 📸 App Screenshot
+*(You can drop your screenshot image here)*
 
-## 🚀 Cara Menjalankan Project di Komputer Lokal
-1. Pastikan Python sudah terpasang.
-2. *Clone* repository ini: `git clone https://github.com/gustisuryaa/todo-app.git`
-3. Masuk ke folder: `cd todo-app`
-4. Install dependensi: `pip install -r requirements.txt`
-5. Jalankan aplikasi: `python app.py`
-6. Buka browser dan akses `http://127.0.0.1:5000`
+## 🚀 How to Run the Project Locally
+1. Make sure Python is installed on your system.
+2. Clone this repository: `git clone https://github.com/gustisuryaa/todo-app.git`
+3. Navigate to the project directory: `cd todo-app`
+4. Install dependencies: `pip install -r requirements.txt`
+5. Run the application: `python app.py`
+6. Open your browser and go to `http://127.0.0.1:5000`
