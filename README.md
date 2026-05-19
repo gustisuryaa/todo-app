@@ -11,7 +11,8 @@ A simple, fast, and responsive daily To-Do List application. This project was bu
 * **Frontend:** HTML5, CSS3
 
 ## 📸 App Screenshot
-*(You can drop your screenshot image here)*
+<img width="787" height="335" alt="Screenshot 2026-05-19 at 16 18 15" src="https://github.com/user-attachments/assets/8d57bd05-92ee-42a6-baee-aeaaa1ce7019" />
+
 
 ## 🚀 How to Run the Project Locally
 1. Make sure Python is installed on your system.
